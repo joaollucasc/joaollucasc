@@ -1,4 +1,4 @@
-# ✦ João Lucas de Lima Correia
+# ␥ João Lucas de Lima Correia
 **`Software Engineer & Product Designer`**
 
 > "Traduzo o caos criativo em sistemas escaláveis. Onde o design encontra a função e o código ganha alma."
