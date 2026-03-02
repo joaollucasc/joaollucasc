@@ -6,7 +6,7 @@
 ---
 
 ### 🌌 Sobre mim
-Sou um desenvolvedor e designer baseado em Pernambuco, focado em criar experiências digitais que não apenas funcionam, mas comunicam. Unindo a precisão do **React e Node.js** com a sensibilidade do **UI/UX Design**, atuo em todo o ciclo de vida do produto: da primeira linha de conceito no Figma à última linha de código em produção.
+Sou um desenvolvedor e designer Pernambucano, focado em criar experiências digitais que não apenas funcionam, mas comunicam. Unindo a precisão do **código** com a sensibilidade do **UI/UX Design**, atuo em todo o ciclo de vida do produto: da primeira linha de conceito no Figma à última linha de código em produção.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/joaollucasc">
